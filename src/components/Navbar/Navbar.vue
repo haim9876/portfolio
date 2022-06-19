@@ -69,7 +69,7 @@
     margin-top: 9px;
   }
   .title {
-    wdith: 200px !important;
+    width: 200px !important;
   }
 </style>
 
