@@ -92,7 +92,7 @@
               <div class="thumb">
                 <img src="/images/w5.jpg" class="image img-fluid" alt="">
               </div>
-              <a href="https://haim9876.github.io/gitpublicdomainfree/" target="_blank" class="overlay transition"></a>
+              <a href="https://ephemeral-sundae-568037.netlify.app/" target="_blank" class="overlay transition"></a>
               <div class="short-info transition">
                 <h4>Module 6: Vue Show & Hide</h4>
                 <div class="cat">Project 6</div>
