@@ -9,14 +9,11 @@
               <h2>Follow Me</h2>
             </div>
             <div class="footer-social text-center">
-              <a href="/">
+              <a href="https://facebook.com" target="_blank">
                 <v-icon large class="transition"> mdi-facebook </v-icon>
               </a>
-              <a href="/">
+              <a href="https://twitter.com" target="_blank">
                 <v-icon large class="transition"> mdi-twitter </v-icon>
-              </a>
-              <a href="/">
-                <v-icon large class="transition"> mdi-basketball </v-icon>
               </a>
             </div>
           </div>

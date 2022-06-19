@@ -16,6 +16,15 @@
                {{message.message}}
               </div>
             </v-card-text>
+            <v-card-actions>
+              <v-btn 
+                color="orange lighten-2" 
+                text
+                @click="handleDelete(message.id)"
+              >
+              Delete
+            </v-btn>
+            </v-card-actions>
           </v-card>
         </v-col>
       </v-row>
@@ -37,5 +46,11 @@ export default {
     this.messages = JSON.parse(localStorage.getItem("messages")) ?? [];
     console.log(this.messages);
   },
+  methods: {
+    handleDelete(id) {
+      this.messages = this.messages.filter((message) => message.id != id)
+      localStorage.setItem("messages", JSON.stringify(this.messages));
+    }
+  }
 };
 </script>

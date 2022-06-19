@@ -119,6 +119,7 @@ export default {
       ) {
         var messageList = JSON.parse(localStorage.getItem("messages")) ?? [];
         messageList.push({
+          id: new Date().getTime(),
           name: this.name,
           email: this.email,
           subject: this.subject,

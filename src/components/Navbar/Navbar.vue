@@ -19,7 +19,7 @@
 
     <!-- <v-app-bar-nav-icon></v-app-bar-nav-icon> -->
 
-    <v-app-bar-title>Moushume Hai</v-app-bar-title>
+    <v-app-bar-title class="title">Moushume Hai</v-app-bar-title>
 
     <v-spacer></v-spacer>
 
@@ -67,6 +67,9 @@
 <style scoped>
   .nav-link {
     margin-top: 9px;
+  }
+  .title {
+    wdith: 200px !important;
   }
 </style>
 
