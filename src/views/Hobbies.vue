@@ -13,11 +13,11 @@
         <v-col cols="12" sm="6" md="4" lg="4">
           <div class="team">
             <div class="thumbnail">
-              <img src="/images/Youth-soccer-indiana.jpg" alt="" width="100%" height="100%">
+              <img src="/images/badminton.jpg" alt="" width="100%" height="100%">
             </div>
             <div class="content">
-              <h4 class="">Sports</h4>
-              <p class="">Badminton</p>
+              <h4 class="">Favorite Sport</h4>
+              <p class="">Badminton: I love playing badminton with my sister.</p>
             </div>
           </div>
         </v-col>
@@ -25,11 +25,11 @@
         <v-col cols="12" sm="6" md="4" lg="4">
           <div class="team">
             <div class="thumbnail">
-              <img src="/images/landscape-oil-painting.jpg" alt="">
+              <img src="/images/painting.jpg" alt="" width="100%" height="100%">
             </div>
             <div class="content">
               <h4 class="">Art</h4>
-              <p class="">Art</p>
+              <p class="">Painting: I paint with my sister; I find it a form of therapy.</p>
             </div>
           </div>
         </v-col>
@@ -37,11 +37,47 @@
         <v-col cols="12" sm="6" md="4" lg="4">
           <div class="team">
             <div class="thumbnail">
-              <img src="/images/photo-1556911220-e15b29be8c8f.jpg" alt="">
+              <img src="/images/cooking.jpg" alt="" width="100%" height="100%">
             </div>
             <div class="content">
-              <h4 class="">Cooking</h4>
-              <p class="">Cooking</p>
+              <h4 class="">Cooking & Baking</h4>
+              <p class="">Cooking/Baking: I love baking cakes and cooking different savory dishes.</p>
+            </div>
+          </div>
+        </v-col>
+
+        <v-col cols="12" sm="6" md="4" lg="4">
+          <div class="team">
+            <div class="thumbnail">
+              <img src="/images/spotify.jpg" alt="" width="100%" height="100%">
+            </div>
+            <div class="content">
+              <h4 class="">Music</h4>
+              <p class="">Music: I enjoy listening to spotify when I work or do homework.</p>
+            </div>
+          </div>
+        </v-col>
+
+        <v-col cols="12" sm="6" md="4" lg="4">
+          <div class="team">
+            <div class="thumbnail">
+              <img src="/images/travel.jpg" alt="" width="100%" height="100%">
+            </div>
+            <div class="content">
+              <h4 class="">Travel</h4>
+              <p class="">Travel: I enjoy traveling during my free time. My next vacation spot will be Los Angeles, California.</p>
+            </div>
+          </div>
+        </v-col>
+
+        <v-col cols="12" sm="6" md="4" lg="4">
+          <div class="team">
+            <div class="thumbnail">
+              <img src="/images/makeup.jpg" alt="" width="100%" height="100%">
+            </div>
+            <div class="content">
+              <h4 class="">Makeup</h4>
+              <p class="">Makeup: I enjoy watching viral makeup trends and testing them out with makeup products from Sephora and Ulta.</p>
             </div>
           </div>
         </v-col>

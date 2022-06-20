@@ -37,11 +37,11 @@
     <v-btn text class="nav-link" @click="handleNavigate('/hobbies')">
       Hobbies
     </v-btn>
-    <v-btn text class="nav-link" @click="handleNavigate('/experience')">
-      Experience
+    <v-btn text class="nav-link" @click="handleNavigate('/resume')">
+      Resume
     </v-btn>
-    <v-btn text class="nav-link" @click="handleNavigate('/movies')">
-      Movies
+    <v-btn text class="nav-link" @click="handleNavigate('/music')">
+      Music
     </v-btn>
     <v-btn text class="nav-link" @click="handleNavigate('/skills')">
       Skills
@@ -51,9 +51,6 @@
     </v-btn>
     <v-btn text class="nav-link" @click="handleNavigate('/blogs')">
       Blog
-    </v-btn>
-     <v-btn text class="nav-link" @click="handleNavigate('/friends')">
-      Friends
     </v-btn>
     <v-btn text class="nav-link" @click="handleNavigate('/login')" v-if="!logged">
       Login

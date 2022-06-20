@@ -2,12 +2,11 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
 import Contact from '@/views/Contact.vue'
-import Experience from '@/views/Experience.vue'
-import Movies from '@/views/Movies.vue'
+import Resume from '@/views/Resume.vue'
+import Music from '@/views/Music.vue'
 import Skills from '@/views/Skills.vue'
 import Works from '@/views/Works.vue'
 import Blogs from '@/views/Blogs.vue'
-import Friends from '@/views/Friends.vue'
 import Login from '@/views/Login.vue'
 import Admin from '@/views/Admin.vue'
 import Hobbies from '@/views/Hobbies.vue'
@@ -35,14 +34,14 @@ const routes = [
     component: Contact,
   },
   {
-    path: "/experience",
-    name: "Experience",
-    component: Experience,
+    path: "/resume",
+    name: "Resume",
+    component: Resume,
   },
   {
-    path: "/movies",
-    name: "Movies",
-    component: Movies,
+    path: "/music",
+    name: "Music",
+    component: Music,
   },
   {
     path: "/skills",
@@ -58,11 +57,6 @@ const routes = [
     path: "/blogs",
     name: "Blogs",
     component: Blogs
-  },
-  {
-    path: "/friends",
-    name: "Friends",
-    component: Friends
   },
   {
     path: "/login",

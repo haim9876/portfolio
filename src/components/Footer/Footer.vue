@@ -5,15 +5,14 @@
         <v-col cols="12" sm="12">
           <div class="footer-top">
             <div class="footer-logo text-center">
-              <h2>Want To Know More About Me?</h2>
-              <h2>Follow Me</h2>
+              <h2>Follow Me!</h2>
             </div>
             <div class="footer-social text-center">
-              <a href="https://facebook.com" target="_blank">
-                <v-icon large class="transition"> mdi-facebook </v-icon>
+              <a href="https://www.linkedin.com/in/hai98" target="_blank">
+                <v-icon large class="transition"> mdi-linkedin </v-icon>
               </a>
-              <a href="https://twitter.com" target="_blank">
-                <v-icon large class="transition"> mdi-twitter </v-icon>
+              <a href="https://github.com/haim9876" target="_blank">
+                <v-icon large class="transition"> mdi-github </v-icon>
               </a>
             </div>
           </div>
@@ -50,7 +49,7 @@
 }
 .footer-social a i {
   color: #cccccc;
-  font-size: 40px;
+  font-size: 50px;
 }
 .footer-social a i:hover {
   color: #e45447;
@@ -63,8 +62,6 @@
 </style>
 
 <script>
-// import { mdiFacebook, mdiTwitter, mdiBasketball } from "@mdi/js";
-
 export default {
   data: () => ({}),
 };

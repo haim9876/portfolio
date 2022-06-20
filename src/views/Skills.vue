@@ -12,7 +12,7 @@
       <v-row>
         <v-col cols="12" sm="12" md="6">
           <div class="progress-wrap">
-            <h5>Photoshop(90%)</h5>
+            <h5>Photoshop: 90%</h5>
             <div class="progress">
               <v-slider
                 class="align-self-stretch"
@@ -27,7 +27,7 @@
 
         <v-col cols="12" sm="12" md="6">
           <div class="progress-wrap">
-            <h5>jQuery(85%)</h5>
+            <h5>jQuery: 85%</h5>
             <div class="progress">
               <v-slider
                 class="align-self-stretch"
@@ -42,7 +42,7 @@
 
         <v-col cols="12" sm="12" md="6">
           <div class="progress-wrap">
-            <h5>HTML(95%)</h5>
+            <h5>HTML: 95%</h5>
             <div class="progress">
               <v-slider
                 class="align-self-stretch"
@@ -57,7 +57,7 @@
 
         <v-col cols="12" sm="12" md="6">
           <div class="progress-wrap">
-            <h5>CSS3(90%)</h5>
+            <h5>CSS3: 90%</h5>
             <div class="progress">
               <v-slider
                 class="align-self-stretch"
@@ -72,7 +72,7 @@
 
         <v-col cols="12" sm="12" md="6">
           <div class="progress-wrap">
-            <h5>Vue(90%)</h5>
+            <h5>Vue: 90%</h5>
             <div class="progress">
               <v-slider
                 class="align-self-stretch"
@@ -87,7 +87,7 @@
 
         <v-col cols="12" sm="12" md="6">
           <div class="progress-wrap">
-            <h5>SEO(70%)</h5>
+            <h5>C++: 70%</h5>
             <div class="progress">
               <v-slider
                 class="align-self-stretch"
