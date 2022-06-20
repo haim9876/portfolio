@@ -40,7 +40,7 @@
 </style>
 
 <script>
-import { text } from 'body-parser';
+//import { text } from 'body-parser';
 
 export default {
   data() {

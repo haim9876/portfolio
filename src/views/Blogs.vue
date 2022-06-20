@@ -20,7 +20,7 @@
               <br/>
               <br/>
               <br/>
-              <h4>Bhool Bhulaiya 2</h4>
+              <h1>Bhool Bhulaiya 2</h1>
               <a href="">
                 <small>
                   16 JUNE 2022
@@ -43,7 +43,7 @@
               <br/>
               <br/>
               <br/>
-              <h4>Birthday Dinner</h4>
+              <h1>Birthday Dinner</h1>
               <a href="">
                 <small>
                   04 JUNE 2022
@@ -67,7 +67,7 @@
               <br/>
               <br/>
               <br/>
-              <h4>Graduation Day</h4>
+              <h1>Graduation Day</h1>
               <a href="">
                 <small>
                   21 May 2022
