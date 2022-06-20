@@ -39,11 +39,8 @@
     <v-btn text class="nav-link" @click="handleNavigate('/music')">
       Music
     </v-btn>
-    <v-btn text class="nav-link" @click="handleNavigate('/skills')">
-      Skills
-    </v-btn>
-    <v-btn text class="nav-link" @click="handleNavigate('/works')">
-      Works
+    <v-btn text class="nav-link" @click="handleNavigate('/projects')">
+      Projects
     </v-btn>
     <v-btn text class="nav-link" @click="handleNavigate('/blogs')">
       Blog

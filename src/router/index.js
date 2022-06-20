@@ -4,8 +4,7 @@ import Home from "../views/Home.vue";
 import Contact from '@/views/Contact.vue'
 import Resume from '@/views/Resume.vue'
 import Music from '@/views/Music.vue'
-import Skills from '@/views/Skills.vue'
-import Works from '@/views/Works.vue'
+import Projects from '@/views/Projects.vue'
 import Blogs from '@/views/Blogs.vue'
 import Login from '@/views/Login.vue'
 import Admin from '@/views/Admin.vue'
@@ -44,14 +43,9 @@ const routes = [
     component: Music,
   },
   {
-    path: "/skills",
-    name: "Skills",
-    component: Skills,
-  },
-  {
-    path: "/works",
-    name: "Works",
-    component: Works
+    path: "/projects",
+    name: "Projects",
+    component: Projects
   },
   {
     path: "/blogs",
