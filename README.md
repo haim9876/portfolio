@@ -1,4 +1,8 @@
 # portfolio-app
+```
+To run this repository locally to open the webpage run the below commands then connect via the localhost
+generated through terminal or command prompt:
+```
 
 ## Project Setup
 ```
