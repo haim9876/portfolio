@@ -30,10 +30,6 @@
     <v-btn text class="nav-link" @click="handleNavigate('/about')">
       About
     </v-btn>
-
-    <v-btn text class="nav-link" @click="handleNavigate('/contact')">
-      Contact
-    </v-btn>
     <v-btn text class="nav-link" @click="handleNavigate('/hobbies')">
       Hobbies
     </v-btn>
@@ -51,6 +47,9 @@
     </v-btn>
     <v-btn text class="nav-link" @click="handleNavigate('/blogs')">
       Blog
+    </v-btn>
+    <v-btn text class="nav-link" @click="handleNavigate('/contact')">
+      Contact
     </v-btn>
     <v-btn text class="nav-link" @click="handleNavigate('/login')" v-if="!logged">
       Login
